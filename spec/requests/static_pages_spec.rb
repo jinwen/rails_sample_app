@@ -1,7 +1,6 @@
 require 'spec_helper'
 
 describe "Static pages" do
-  let(:base_title) { "Rails Sample Application" }
   subject { page }
 
   describe "Home page" do
